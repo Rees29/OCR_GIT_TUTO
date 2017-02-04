@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Projet Git OpenClassRoom</title>
+</head>
+
+<body>
+En cliquant sur ce lien vous serez redirigé vers le GITHUB du projet.
+</body>
+
+</html>
